@@ -200,11 +200,11 @@ content:
     layout: list
     content:
       - layout: left
-        title: B.Sc. in Information Technology Engineering
+        title: Computer Engineering
         sub_title: Soonchunhyang University
         caption: 2001 – 2007, Chungnam, South Korea
         quote: >
-          Short institution or course description (optional)
+          B.Sc. in Information Technology Engineering (GPA : 3.5/4.5)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
