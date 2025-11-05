@@ -90,20 +90,24 @@ content:
       - layout: left
         title: Motioneye
         sub_title: PHP Developer (Full Stack)
-        caption: Dec 2024 – Present, Seoul, South Korea
+        caption: Dec 2024 – Present
         link: https://www.motioneye.co.kr
         quote: >
           Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          
           Led the redevelopment of the "Monomart" application, improving functionality and user engagement.
       - layout: left
         title: THK company
         sub_title: PHP Developer (Full Stack)
-        caption: Mar 2024 – Dec 2024, Seoul, South Korea
+        caption: Mar 2024 – Dec 2024
         link: https://www.thkc.co.kr
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Led the development of the nursing information platform, nurse mall service, to promote user engagement and business growth.
+          
           Managed the AWS systems, optimizing data accessibility and security.
       - layout: left
         title: Company name
