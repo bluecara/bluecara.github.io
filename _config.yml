@@ -108,14 +108,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Led the development of the nursing information platform, nurse mall service, to promote user engagement and business growth.
           
-          Managed the AWS systems, optimizing data accessibility and security.
+          Managed the <mark>AWS</mark> systems, optimizing data accessibility and security.
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Dreameut
+        sub_title: PHP Developer (Full Stack)
+        caption: May 2023 – Oct 2023
+        link: dreameut.co.kr
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          ●	Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          ●	Led the redevelopment of the "Monthly Food" application, improving functionality and user engagement.
+          ●	Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
+          ●	Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
       - layout: left
         title: Company name
         sub_title: Job title
