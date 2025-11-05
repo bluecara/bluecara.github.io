@@ -188,13 +188,17 @@ content:
         sub_title: Soonchunhyang University
         caption: 2001 – 2007, Chungnam, South Korea
         quote: >
-          B.Sc. in Information Technology Engineering. GPA 3.5/4.5 (77.7/100)
+          B.Sc. in Information Technology Engineering. GPA 3.5 / 4.5 (77.7 / 100)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ...
+      When I'm not at my desk, I'm very active and spend most of my time outdoors. I enjoy sports like cycling and swimming, and I enjoy taking walks to explore my surroundings.
+      
+      I enjoy being creative, so I try to experience a variety of things.
+      
+      Finally, I enjoy spending time with my family, playing board games, and enjoying delicious food.
   - title: Interested to work together?
     layout: text
     content: | # this will include new lines to allow paragraphs
