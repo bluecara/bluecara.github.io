@@ -99,10 +99,8 @@ content:
       - layout: left
         title: THK company
         sub_title: PHP Developer (Full Stack)
-        caption: Mar 2024 – Dec 2024
+        caption: Mar 2024 – Dec 2024, Seoul, South Korea
         link: thkc.co.kr
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Led the development of the nursing information platform, nurse mall service, to promote user engagement and business growth.
           
@@ -110,10 +108,8 @@ content:
       - layout: left
         title: Dreameut
         sub_title: PHP Developer (Full Stack)
-        caption: May 2023 – Oct 2023
+        caption: May 2023 – Oct 2023, Seoul, South Korea
         link: dreameut.co.kr
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
@@ -125,10 +121,8 @@ content:
       - layout: left
         title: Davvero Art
         sub_title: PHP Developer
-        caption: Jul 2022 – May 2023
+        caption: Jul 2022 – May 2023, Seoul, South Korea
         link: davvero-art.com
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Pioneered the development and standardization of <mark>WebVR</mark> content, elevating the interactive user experience.
           
@@ -138,10 +132,8 @@ content:
       - layout: left
         title: Jason Group
         sub_title: PHP Developer (Backend)
-        caption: Jul 2020 – May 2022
+        caption: Jul 2020 – May 2022, Seoul, South Korea
         link: jasongroup.co.kr
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Developed a live commerce solution back-office, automating promotion and enhancing sales strategies.
           
@@ -149,10 +141,8 @@ content:
       - layout: left
         title: ConnectWave
         sub_title: PHP Developer (Full Stack)
-        caption: Nov 2011 – Jun 2020
+        caption: Nov 2011 – Jun 2020, Seoul, South Korea
         link: connectwave.co.kr
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Led the development of eight innovative services, including chatbots, video commerce platforms, and social content management, driving user engagement and business growth.
           
@@ -162,36 +152,28 @@ content:
       - layout: left
         title: Aisa Business Daily
         sub_title: PHP Developer
-        caption: Mar 2011 – Nov 2011
+        caption: Mar 2011 – Nov 2011, Seoul, South Korea
         link: asiae.co.kr
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Developed multiple web services.
       - layout: left
         title: Pagoda SCS
         sub_title: PHP Developer
-        caption: May 2007 – Mar 2011
+        caption: May 2007 – Mar 2011, Seoul, South Korea
         link: pagoda21.com
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Developed educational websites and added B2B convenience features.
       - layout: left
         title: Netpia
         sub_title: PHP Developer
-        caption: Dec 2006 – May 2007
+        caption: Dec 2006 – May 2007, Seoul, South Korea
         link: netpia.com
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Participated in the SMS sending program TFT team.
       - layout: left
         title: People Who Enjoy Traveling
         sub_title: PHP Developer
-        caption: Dec 2005 – Dec 2006
-        quote: >
-          Seoul, South Korea
+        caption: Dec 2005 – Dec 2006, Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Upgraded the website and built an intranet.
   - title: Education
