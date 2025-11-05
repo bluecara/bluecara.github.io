@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kevin
-title: Your job title
+title: Welcome to my portfolio website!
 email: bluecara82@gmail.com
 # email_title: Email (Email title override)
 phone: +82-10-88881-2860
@@ -52,6 +52,8 @@ linkedin_username: kevin-jung-695345163
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+  Seasoned PHP Developer with over 18+ years of comprehensive experience in software development across various industries. Passionate about crafting user-centric solutions that enhance engagement and drive innovation. Aiming to leverage extensive technical expertise and a results-oriented approach to contribute to the success of a dynamic team.
+  
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
