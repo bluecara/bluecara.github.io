@@ -91,7 +91,7 @@ content:
         title: Motioneye
         sub_title: PHP Developer (Full Stack)
         caption: Dec 2024 – Present
-        link: https://www.motioneye.co.kr
+        link: motioneye.co.kr
         quote: >
           Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
@@ -102,7 +102,7 @@ content:
         title: THK company
         sub_title: PHP Developer (Full Stack)
         caption: Mar 2024 – Dec 2024
-        link: https://www.thkc.co.kr
+        link: thkc.co.kr
         quote: >
           Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
@@ -117,17 +117,26 @@ content:
         quote: >
           Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          ●	Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
-          ●	Led the redevelopment of the "Monthly Food" application, improving functionality and user engagement.
-          ●	Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
-          ●	Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
+          Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          
+          Led the redevelopment of the "Monthly Food" application, improving functionality and user engagement.
+          
+          Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
+          
+          Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Davvero Art
+        sub_title: PHP Developer
+        caption: Jul 2022 – May 2023
+        link: davvero-art.com
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Pioneered the development and standardization of WebVR content, elevating the interactive user experience.
+          
+          Oversaw website management and back-office development, ensuring seamless operations.
+          
+          Managed Network Attached Storage (NAS) systems, optimizing data accessibility and security.
       - layout: left
         title: Company name
         sub_title: Job title
