@@ -121,7 +121,7 @@ content:
           
           Led the redevelopment of the **Monthly Food** application, improving functionality and user engagement.
           
-          Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
+          Successfully integrated a new <mark>Payment Gateway (PG)</mark>, streamlining transaction processes.
           
           Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
       - layout: left
@@ -132,11 +132,11 @@ content:
         quote: >
           Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Pioneered the development and standardization of WebVR content, elevating the interactive user experience.
+          Pioneered the development and standardization of <mark>WebVR</mark> content, elevating the interactive user experience.
           
           Oversaw website management and back-office development, ensuring seamless operations.
           
-          Managed Network Attached Storage (NAS) systems, optimizing data accessibility and security.
+          Managed Network Attached Storage (<mark>NAS</mark>) systems, optimizing data accessibility and security.
       - layout: left
         title: Jason Group
         sub_title: PHP Developer (Backend)
