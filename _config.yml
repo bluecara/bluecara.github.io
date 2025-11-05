@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kwangyeol Jung's Resume
-title: Fullstack Web Developer
+title: Full Stack Web Developer
 email: bluecara82@gmail.com
 # email_title: Email (Email title override)
 phone: +82-10-88881-2860
@@ -56,17 +56,17 @@ about_profile_image: images/kevin.png #Directory of profile image (eg. images/pr
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Kwangyeol Jung.
   
-  Seasoned Fullstack Web Developer with over 18+ years of comprehensive experience in software development across various industries.
+  Seasoned full stack web developer with over 18+ years of comprehensive experience in software development across various industries.
   Passionate about crafting user-centric solutions that enhance engagement and drive innovation.
   Aiming to leverage extensive technical expertise and a results-oriented approach to contribute to the success of a dynamic team.
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #  - Lists
+  #  - Tables
+  #  - <a href="google.com">Links</a>
+  #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -92,6 +92,24 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
       - layout: right
         title: Company name
         sub_title: Job title
