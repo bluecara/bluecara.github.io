@@ -186,21 +186,17 @@ content:
         sub_title: Soonchunhyang University
         caption: 2001 – 2007, Chungnam, South Korea
         quote: >
-          B.Sc. in Information Technology Engineering (GPA : 3.5/4.5)
+          B.Sc. in Information Technology Engineering. GPA 3.5/4.5 (77.7/100)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
       ...
-  - title: Interested to work together? Let’s talk how I can help you!
+  - title: Interested to work together?
     layout: text
     content: | # this will include new lines to allow paragraphs
-      If you know of an open position that would suit me,
-
-      or would like to have a coffee chat with me,
-      
-      please send me a message using the contact form.
+      If you know of an open position that would suit me, or would like to have a coffee chat with me, please send me a message using the contact form.
       
       Also good for contact to me via my email or cell phone number.
       
