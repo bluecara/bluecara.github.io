@@ -55,6 +55,12 @@
   border-bottom: dashed 1px #CCCCCC;
 }
 
+h3 {
+  background-color: #f4f6f8 !important;
+  border-radius: 8px !important;
+  border-bottom: none !important;
+}
+
 .layout {
   margin-top: 3rem;
   display: flex;
@@ -98,12 +104,6 @@
 
     .link {
       font-size: 1.2rem;
-    }
-
-    h3 {
-      background-color: #f4f6f8 !important;
-      border-radius: 8px !important;
-      border-bottom: none !important;
     }
 
     h4 {
