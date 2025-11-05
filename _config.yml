@@ -90,14 +90,12 @@ content:
       - layout: left
         title: Motioneye
         sub_title: PHP Developer (Full Stack)
-        caption: Dec 2024 – Present
+        caption: Dec 2024 – Present, Seoul, South Korea
         link: motioneye.co.kr
-        quote: >
-          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
-          Led the redevelopment of the **Monomart** application, improving functionality and user engagement.
+          Led the redevelopment of the **Monomart** and **Hakoyamall** application, improving functionality and user engagement.
       - layout: left
         title: THK company
         sub_title: PHP Developer (Full Stack)
@@ -136,7 +134,7 @@ content:
           
           Oversaw website management and back-office development, ensuring seamless operations.
           
-          Managed Network Attached Storage (<mark>NAS</mark>) systems, optimizing data accessibility and security.
+          Managed <mark>Network Attached Storage (NAS)</mark> systems, optimizing data accessibility and security.
       - layout: left
         title: Jason Group
         sub_title: PHP Developer (Backend)
