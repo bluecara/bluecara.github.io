@@ -65,8 +65,6 @@ content:
     layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Programming Languages
         description: | # this will include new lines to allow paragraphs
           PHP, Python, React, JavaScript, HTML, CSS, etc
