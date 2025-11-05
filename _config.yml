@@ -87,7 +87,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Tools & Platforms
         description: | # this will include new lines to allow paragraphs
-          Jira, Confluence, Github, Vscode, PhpStorm, MySQL Workbench, Docker, Git, SVN, etc
+          AWS, Jira, Confluence, Github, Vscode, PhpStorm, MySQL Workbench, Docker, Git, SVN, etc
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -97,15 +97,16 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+      - layout: left
+        title: Motioneye
+        sub_title: PHP Developer (Full Stack)
+        caption: Dec 2024 – Present
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          Led the redevelopment of the "Monomart" application, improving functionality and user engagement.
       - layout: right
         title: Company name
         sub_title: Job title
