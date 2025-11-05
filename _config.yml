@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
 name: Kevin
@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 #twitter_username: 
-github_username:  bluecara
+github_username: bluecara
 #stackoverflow_username: "00000001"
 #dribbble_username: 
 #facebook_username: 
