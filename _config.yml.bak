@@ -1,45 +1,43 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/favicon.ico # (eg. images/favicon.ico)(optional)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Kwangyeol Jung's Resume
-title: Full Stack Web Developer
-email: bluecara82@gmail.com
+name: Your Name
+title: Your job title
+email: Your email (optional)
 # email_title: Email (Email title override)
-phone: +82-10-88881-2860
+phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-#website: Your website (eg. https://google.com)(optional)
+website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
-address: South Korea
-Notice period: 2 Months
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-#twitter_username: 
-github_username: bluecara
-#stackoverflow_username: "00000001"
-#dribbble_username: 
-#facebook_username: 
-#flickr_username: 
-instagram_username: kevin_jung__
-linkedin_username: kevin-jung-695345163
-#xing_username: 
-#pinterest_username: 
-#youtube_username: 
-#orcid_username: 0000-0000-0000-0000
-#googlescholar_username: D847cGsAAAAJ
+twitter_username: jekyllrb
+github_username:  jekyll
+stackoverflow_username: "00000001"
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+xing_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+orcid_username: 0000-0000-0000-0000
+googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-#additional_links:
-#- title: Link name
-#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
+additional_links:
+- title: Link name
+  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,21 +50,16 @@ linkedin_username: kevin-jung-695345163
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/kevin.png #Directory of profile image (eg. images/profile.jpg)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Kwangyeol Jung.
-  
-  Seasoned full stack web developer with over 18+ years of comprehensive experience in software development across various industries.
-  Passionate about crafting user-centric solutions that enhance engagement and drive innovation.
-  Aiming to leverage extensive technical expertise and a results-oriented approach to contribute to the success of a dynamic team.
-  
-  /*Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
-  */
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,24 +84,6 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
       - layout: right
         title: Company name
         sub_title: Job title
