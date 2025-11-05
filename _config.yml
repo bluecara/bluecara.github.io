@@ -50,7 +50,7 @@ linkedin_username: kevin-jung-695345163
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/kevin.png #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Seasoned PHP Developer with over 18+ years of comprehensive experience in software development across various industries. Passionate about crafting user-centric solutions that enhance engagement and drive innovation. Aiming to leverage extensive technical expertise and a results-oriented approach to contribute to the success of a dynamic team.
   
