@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kwangyeol Jung's portfolio
-title: Welcome to my portfolio website!
+title: Full Stack Web Developer
 email: bluecara82@gmail.com
 # email_title: Email (Email title override)
 phone: +82-10-88881-2860
@@ -53,7 +53,9 @@ linkedin_username: kevin-jung-695345163
 about_profile_image: images/kevin.png #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Kwangyeol.
-  Seasoned PHP Developer with over 18+ years of comprehensive experience in software development across various industries. Passionate about crafting user-centric solutions that enhance engagement and drive innovation. Aiming to leverage extensive technical expertise and a results-oriented approach to contribute to the success of a dynamic team.
+  Seasoned PHP Developer with over 18+ years of comprehensive experience in software development across various industries.
+  Passionate about crafting user-centric solutions that enhance engagement and drive innovation.
+  Aiming to leverage extensive technical expertise and a results-oriented approach to contribute to the success of a dynamic team.
   
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
