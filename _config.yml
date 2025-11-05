@@ -97,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
-          Led the redevelopment of the "Monomart" application, improving functionality and user engagement.
+          Led the redevelopment of the **Monomart** application, improving functionality and user engagement.
       - layout: left
         title: THK company
         sub_title: PHP Developer (Full Stack)
