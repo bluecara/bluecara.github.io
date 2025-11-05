@@ -119,7 +119,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
-          Led the redevelopment of the "Monthly Food" application, improving functionality and user engagement.
+          Led the redevelopment of the **Monthly Food** application, improving functionality and user engagement.
           
           Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
           
@@ -138,47 +138,71 @@ content:
           
           Managed Network Attached Storage (NAS) systems, optimizing data accessibility and security.
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Jason Group
+        sub_title: PHP Developer (Backend)
+        caption: Jul 2020 – May 2022
+        link: jasongroup.co.kr
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Developed a live commerce solution back-office, automating promotion and enhancing sales strategies.
+          
+          Engineered a search management solution, significantly improving product discoverability and user satisfaction.
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: ConnectWave
+        sub_title: PHP Developer (Full Stack)
+        caption: Nov 2011 – Jun 2020
+        link: connectwave.co.kr
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Led the development of eight innovative services, including chatbots, video commerce platforms, and social content management, driving user engagement and business growth.
+          
+          Implemented a mobile website for the education team, enhancing accessibility and user experience.
+          
+          Developed an electronic tax invoice back-office and integrated services with Kakaotalk channel, improving operational efficiency.
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Aisa Business Daily
+        sub_title: PHP Developer
+        caption: Mar 2011 – Nov 2011
+        link: asiae.co.kr
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Developed multiple web services.
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Pagoda SCS
+        sub_title: PHP Developer
+        caption: May 2007 – Mar 2011
+        link: pagoda21.com
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Developed educational websites and added B2B convenience features.
       - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Netpia
+        sub_title: PHP Developer
+        caption: Dec 2006 – May 2007
+        link: netpia.com
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Participated in the SMS sending program TFT team.
+      - layout: left
+        title: People Who Enjoy Traveling
+        sub_title: PHP Developer
+        caption: Dec 2005 – Dec 2006
+        quote: >
+          Seoul, South Korea
+        description: | # this will include new lines to allow paragraphs
+          Upgraded the website and built an intranet.
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: left
+        title: B.Sc. in Information Technology Engineering
+        sub_title: Soonchunhyang University
+        caption: 2001 – 2007, Chungnam, South Korea
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
