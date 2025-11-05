@@ -183,8 +183,8 @@
 p.quote {
   font-size: 1.4rem;
   font-style: italic;
-  padding: 1rem 2.5rem;
-  text-align: center;
+  padding: 1rem 2.5rem 0;
+  text-align: left;
 
   @media print {
     text-align: left;
