@@ -69,26 +69,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           PHP, Python, React, JavaScript, HTML, CSS, etc
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Frameworks & Libraries
         description: | # this will include new lines to allow paragraphs
           Codeigniter, Laravel, jQuery, Bootstrap, etc
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Databases
         description: | # this will include new lines to allow paragraphs
           MariaDB, MySQL, Redis, MongoDB, Oracle, etc
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Tools & Platforms
         description: | # this will include new lines to allow paragraphs
           AWS, Jira, Confluence, Github, Vscode, PhpStorm, MySQL Workbench, Docker, Git, SVN, etc
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Additional Skills
         description: | # this will include new lines to allow paragraphs
           Photoshop, MS Office Suite, Krpano
@@ -100,6 +92,8 @@ content:
         sub_title: PHP Developer (Full Stack)
         caption: Dec 2024 – Present, Seoul, South Korea
         link: https://www.motioneye.co.kr
+        quote: >
+          Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           Led the redevelopment of the "Monomart" application, improving functionality and user engagement.
