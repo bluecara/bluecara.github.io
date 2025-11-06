@@ -109,6 +109,8 @@ content:
         link: thkc.co.kr
         description: | # this will include new lines to allow paragraphs
           Led the development of the nursing information platform, nurse mall service, to promote user engagement and business growth.
+
+          Crawling government data and providing it to users to improve satisfaction.
           
           Managed the <mark>AWS</mark> systems, optimizing data accessibility and security.
       - layout: left
