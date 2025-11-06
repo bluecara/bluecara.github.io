@@ -56,7 +56,7 @@ about_profile_image: images/kevin.png #Directory of profile image (eg. images/pr
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Kwangyeol Jung.
   
-  I am an experienced full-stack web developer with over 18 years of software development experience across various industries.
+  I am an experienced full stack web developer with over 18 years of software development experience across various industries.
   
   Passionate about developing user-centric solutions that increase engagement and drive innovation.
   
@@ -87,7 +87,7 @@ content:
       - layout: left
         title: Additional Skills
         description: | # this will include new lines to allow paragraphs
-          Photoshop, MS Office Suite, Krpano
+          Photoshop, MS Office Suite, Krpano, etc
   - title: Experience
     layout: list
     content:
@@ -97,9 +97,11 @@ content:
         caption: Dec 2024 – Present, Seoul, South Korea
         link: motioneye.co.kr
         description: | # this will include new lines to allow paragraphs
-          Leading the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
           Led the redevelopment of the **Monomart** and **Hakoyamall** application, improving functionality and user engagement.
+
+          Secure the stability of the service by optimizing unnecessary codes.
       - layout: left
         title: THK company
         sub_title: PHP Developer (Full Stack)
@@ -115,7 +117,7 @@ content:
         caption: May 2023 – Oct 2023, Seoul, South Korea
         link: dreameut.co.kr
         description: | # this will include new lines to allow paragraphs
-          Leading the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
           Led the redevelopment of the **Monthly Food** application, improving functionality and user engagement.
           
