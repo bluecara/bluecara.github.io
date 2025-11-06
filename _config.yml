@@ -194,7 +194,9 @@ content:
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I'm not at my desk, I'm very active and spend most of my time outdoors. I enjoy sports like cycling and swimming, and I enjoy taking walks to explore my surroundings.
+      When I'm not at my desk, I'm very active and spend most of my time outdoors.
+      
+      I enjoy sports like cycling and swimming, and I enjoy taking walks to explore my surroundings.
       
       I enjoy being creative, so I try to experience a variety of things.
       
