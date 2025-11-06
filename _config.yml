@@ -146,6 +146,8 @@ content:
           Developed a live commerce solution back-office, automating promotion and enhancing sales strategies.
           
           Engineered a search management solution, significantly improving product discoverability and user satisfaction.
+
+          Collects minute-by-minute data to provide quick statistical charts.
       - layout: left
         title: ConnectWave
         sub_title: PHP Developer (Full Stack)
@@ -163,6 +165,8 @@ content:
         caption: Mar 2011 – Nov 2011, Seoul, South Korea
         link: asiae.co.kr
         description: | # this will include new lines to allow paragraphs
+          Applying file storage method to quickly provide the site's main service.
+          
           Developed multiple web services.
       - layout: left
         title: Pagoda SCS
@@ -171,6 +175,8 @@ content:
         link: pagoda21.com
         description: | # this will include new lines to allow paragraphs
           Developed educational websites and added B2B convenience features.
+
+          Led development of a site targeting juniors.
       - layout: left
         title: Netpia
         sub_title: PHP Developer
