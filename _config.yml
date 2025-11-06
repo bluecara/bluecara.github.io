@@ -190,7 +190,9 @@ content:
         quote: >
           B.Sc. in Information Technology Engineering. GPA 3.5 / 4.5 (77.7 / 100)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          During my degree at university, I learned many core skills, such as teamwork and project management.
+          
+          While my focus was primarily on software development and programming principles, I actively apply these skills in my daily work.
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
