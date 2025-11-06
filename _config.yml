@@ -99,7 +99,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
-          Led the redevelopment of the **Monomart** and **Hakoyamall** application, improving functionality and user engagement.
+          Led the redevelopment of the Monomart and Hakoyamall application, improving functionality and user engagement.
 
           Secure the stability of the service by optimizing unnecessary codes.
       - layout: left
@@ -112,7 +112,7 @@ content:
 
           Crawling government data and providing it to users to improve satisfaction.
           
-          Managed the <mark>AWS</mark> systems, optimizing data accessibility and security.
+          Managed the AWS systems, optimizing data accessibility and security.
       - layout: left
         title: Dreameut
         sub_title: Full Stack Developer
@@ -121,9 +121,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
-          Led the redevelopment of the **Monthly Food** application, improving functionality and user engagement.
+          Led the redevelopment of the Monthly Food application, improving functionality and user engagement.
           
-          Successfully integrated a new <mark>Payment Gateway (PG)</mark>, streamlining transaction processes.
+          Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
           
           Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
       - layout: left
@@ -132,11 +132,11 @@ content:
         caption: Jul 2022 – May 2023, Seoul, South Korea
         link: davvero-art.com
         description: | # this will include new lines to allow paragraphs
-          Pioneered the development and standardization of <mark>WebVR</mark> content, elevating the interactive user experience.
+          Pioneered the development and standardization of WebVR content, elevating the interactive user experience.
           
           Oversaw website management and back-office development, ensuring seamless operations.
           
-          Managed <mark>Network Attached Storage (NAS)</mark> systems, optimizing data accessibility and security.
+          Managed Network Attached Storage (NAS) systems, optimizing data accessibility and security.
       - layout: left
         title: Jason Group
         sub_title: Backend Developer
