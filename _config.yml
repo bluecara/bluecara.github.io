@@ -75,7 +75,7 @@ content:
       - layout: left
         title: Frameworks & Libraries
         description: | # this will include new lines to allow paragraphs
-          Codeigniter, Laravel, jQuery, Bootstrap, etc
+          Codeigniter, Laravel, Template_, jQuery, Bootstrap, etc
       - layout: left
         title: Databases
         description: | # this will include new lines to allow paragraphs
@@ -93,7 +93,7 @@ content:
     content:
       - layout: left
         title: Motioneye
-        sub_title: PHP Developer (Full Stack)
+        sub_title: Full Stack Developer
         caption: Dec 2024 – Present, Seoul, South Korea
         link: motioneye.co.kr
         description: | # this will include new lines to allow paragraphs
@@ -104,7 +104,7 @@ content:
           Secure the stability of the service by optimizing unnecessary codes.
       - layout: left
         title: THK company
-        sub_title: PHP Developer (Full Stack)
+        sub_title: Full Stack Developer
         caption: Mar 2024 – Dec 2024, Seoul, South Korea
         link: thkc.co.kr
         description: | # this will include new lines to allow paragraphs
@@ -115,7 +115,7 @@ content:
           Managed the <mark>AWS</mark> systems, optimizing data accessibility and security.
       - layout: left
         title: Dreameut
-        sub_title: PHP Developer (Full Stack)
+        sub_title: Full Stack Developer
         caption: May 2023 – Oct 2023, Seoul, South Korea
         link: dreameut.co.kr
         description: | # this will include new lines to allow paragraphs
@@ -128,7 +128,7 @@ content:
           Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
       - layout: left
         title: Davvero Art
-        sub_title: PHP Developer
+        sub_title: Web Developer
         caption: Jul 2022 – May 2023, Seoul, South Korea
         link: davvero-art.com
         description: | # this will include new lines to allow paragraphs
@@ -139,7 +139,7 @@ content:
           Managed <mark>Network Attached Storage (NAS)</mark> systems, optimizing data accessibility and security.
       - layout: left
         title: Jason Group
-        sub_title: PHP Developer (Backend)
+        sub_title: Backend Developer
         caption: Jul 2020 – May 2022, Seoul, South Korea
         link: jasongroup.co.kr
         description: | # this will include new lines to allow paragraphs
@@ -150,7 +150,7 @@ content:
           Collects minute-by-minute data to provide quick statistical charts.
       - layout: left
         title: ConnectWave
-        sub_title: PHP Developer (Full Stack)
+        sub_title: Full Stack Developer
         caption: Nov 2011 – Jun 2020, Seoul, South Korea
         link: connectwave.co.kr
         description: | # this will include new lines to allow paragraphs
@@ -161,7 +161,7 @@ content:
           Developed an electronic tax invoice back-office and integrated services with Kakaotalk channel, improving operational efficiency.
       - layout: left
         title: Aisa Business Daily
-        sub_title: PHP Developer
+        sub_title: Full Stack Developer
         caption: Mar 2011 – Nov 2011, Seoul, South Korea
         link: asiae.co.kr
         description: | # this will include new lines to allow paragraphs
@@ -170,26 +170,30 @@ content:
           Developed multiple web services.
       - layout: left
         title: Pagoda SCS
-        sub_title: PHP Developer
+        sub_title: Backend Developer
         caption: May 2007 – Mar 2011, Seoul, South Korea
         link: pagoda21.com
         description: | # this will include new lines to allow paragraphs
           Developed educational websites and added B2B convenience features.
 
           Led development of a site targeting juniors.
+
+          Improving the stability of the IBT online mock test.
       - layout: left
         title: Netpia
-        sub_title: PHP Developer
+        sub_title: Backend Developer
         caption: Dec 2006 – May 2007, Seoul, South Korea
         link: netpia.com
         description: | # this will include new lines to allow paragraphs
           Participated in the SMS sending program TFT team.
       - layout: left
         title: People Who Enjoy Traveling
-        sub_title: PHP Developer
+        sub_title: Web Developer
         caption: Dec 2005 – Dec 2006, Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           Upgraded the website and built an intranet.
+
+          Increase sales by integrating payment modules.
   - title: Education
     layout: list
     content:
