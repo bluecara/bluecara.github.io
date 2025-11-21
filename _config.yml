@@ -71,7 +71,7 @@ content:
       - layout: left
         title: Programming Languages
         description: | # this will include new lines to allow paragraphs
-          PHP, Python, React, JavaScript, HTML, CSS, etc
+          PHP, JSP, Python, React, JavaScript, HTML, CSS, etc
       - layout: left
         title: Frameworks & Libraries
         description: | # this will include new lines to allow paragraphs
