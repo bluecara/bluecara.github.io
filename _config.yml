@@ -97,12 +97,9 @@ content:
         caption: Dec 2024 – Present, Seoul, South Korea
         link: motioneye.co.kr
         description: | # this will include new lines to allow paragraphs
-          Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
-          
-          Led the redevelopment of the Monomart and Hakoyamall application, improving functionality and user engagement.
-
+          - Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          - Led the redevelopment of the Monomart and Hakoyamall application, improving functionality and user engagement.
           - Management of various domestic large corporation sites.
-          
           - Secure the stability of the service by optimizing unnecessary codes.
       - layout: left
         title: THK company
@@ -110,92 +107,92 @@ content:
         caption: Mar 2024 – Dec 2024, Seoul, South Korea
         link: thkc.co.kr
         description: | # this will include new lines to allow paragraphs
-          Led the development of the nursing information platform, nurse mall service, to promote user engagement and business growth.
+          - Led the development of the nursing information platform, nurse mall service, to promote user engagement and business growth.
 
-          Crawling government data and providing it to users to improve satisfaction.
+          - Crawling government data and providing it to users to improve satisfaction.
           
-          Managed the AWS systems, optimizing data accessibility and security.
+          - Managed the AWS systems, optimizing data accessibility and security.
       - layout: left
         title: Dreameut
         sub_title: Full Stack Developer
         caption: May 2023 – Oct 2023, Seoul, South Korea
         link: dreameut.co.kr
         description: | # this will include new lines to allow paragraphs
-          Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
+          - Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
           
-          Led the redevelopment of the Monthly Food application, improving functionality and user engagement.
+          - Led the redevelopment of the Monthly Food application, improving functionality and user engagement.
           
-          Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
+          - Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
           
-          Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
+          - Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
       - layout: left
         title: Davvero Art
         sub_title: Web Developer
         caption: Jul 2022 – May 2023, Seoul, South Korea
         link: davvero-art.com
         description: | # this will include new lines to allow paragraphs
-          Pioneered the development and standardization of WebVR content, elevating the interactive user experience.
+          - Pioneered the development and standardization of WebVR content, elevating the interactive user experience.
           
-          Oversaw website management and back-office development, ensuring seamless operations.
+          - Oversaw website management and back-office development, ensuring seamless operations.
           
-          Managed Network Attached Storage (NAS) systems, optimizing data accessibility and security.
+          - Managed Network Attached Storage (NAS) systems, optimizing data accessibility and security.
       - layout: left
         title: Jason Group
         sub_title: Backend Developer
         caption: Jul 2020 – May 2022, Seoul, South Korea
         link: jasongroup.co.kr
         description: | # this will include new lines to allow paragraphs
-          Developed a live commerce solution back-office, automating promotion and enhancing sales strategies.
+          - Developed a live commerce solution back-office, automating promotion and enhancing sales strategies.
           
-          Engineered a search management solution, significantly improving product discoverability and user satisfaction.
+          - Engineered a search management solution, significantly improving product discoverability and user satisfaction.
 
-          Collects minute-by-minute data to provide quick statistical charts.
+          - Collects minute-by-minute data to provide quick statistical charts.
       - layout: left
         title: ConnectWave
         sub_title: Full Stack Developer
         caption: Nov 2011 – Jun 2020, Seoul, South Korea
         link: connectwave.co.kr
         description: | # this will include new lines to allow paragraphs
-          Led the development of eight innovative services, including chatbots, video commerce platforms, and social content management, driving user engagement and business growth.
+          - Led the development of eight innovative services, including chatbots, video commerce platforms, and social content management, driving user engagement and business growth.
           
-          Implemented a mobile website for the education team, enhancing accessibility and user experience.
+          - Implemented a mobile website for the education team, enhancing accessibility and user experience.
           
-          Developed an electronic tax invoice back-office and integrated services with Kakaotalk channel, improving operational efficiency.
+          - Developed an electronic tax invoice back-office and integrated services with Kakaotalk channel, improving operational efficiency.
       - layout: left
         title: Aisa Business Daily
         sub_title: Full Stack Developer
         caption: Mar 2011 – Nov 2011, Seoul, South Korea
         link: asiae.co.kr
         description: | # this will include new lines to allow paragraphs
-          Applying file storage method to quickly provide the site's main service.
+          - Applying file storage method to quickly provide the site's main service.
           
-          Developed multiple web services.
+          - Developed multiple web services.
       - layout: left
         title: Pagoda SCS
         sub_title: Backend Developer
         caption: May 2007 – Mar 2011, Seoul, South Korea
         link: pagoda21.com
         description: | # this will include new lines to allow paragraphs
-          Developed educational websites and added B2B convenience features.
+          - Developed educational websites and added B2B convenience features.
 
-          Led development of a site targeting juniors.
+          - Led development of a site targeting juniors.
 
-          Improving the stability of the IBT online mock test.
+          - Improving the stability of the IBT online mock test.
       - layout: left
         title: Netpia
         sub_title: Backend Developer
         caption: Dec 2006 – May 2007, Seoul, South Korea
         link: netpia.com
         description: | # this will include new lines to allow paragraphs
-          Participated in the SMS sending program TFT team.
+          - Participated in the SMS sending program TFT team.
       - layout: left
         title: People Who Enjoy Traveling
         sub_title: Web Developer
         caption: Dec 2005 – Dec 2006, Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
-          Upgraded the website and built an intranet.
+          - Upgraded the website and built an intranet.
 
-          Increase sales by integrating payment modules.
+          - Increase sales by integrating payment modules.
   - title: Education
     layout: list
     content:
