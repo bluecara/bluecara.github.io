@@ -108,9 +108,7 @@ content:
         link: thkc.co.kr
         description: | # this will include new lines to allow paragraphs
           - Led the development of the nursing information platform, nurse mall service, to promote user engagement and business growth.
-
           - Crawling government data and providing it to users to improve satisfaction.
-          
           - Managed the AWS systems, optimizing data accessibility and security.
       - layout: left
         title: Dreameut
@@ -119,11 +117,8 @@ content:
         link: dreameut.co.kr
         description: | # this will include new lines to allow paragraphs
           - Spearheaded the stabilization of e-Commerce services, enhancing user experience and reducing downtime.
-          
           - Led the redevelopment of the Monthly Food application, improving functionality and user engagement.
-          
           - Successfully integrated a new Payment Gateway (PG), streamlining transaction processes.
-          
           - Enhanced sales menu design and implemented comprehensive statistics for the integrated system, boosting sales insights.
       - layout: left
         title: Davvero Art
@@ -132,9 +127,7 @@ content:
         link: davvero-art.com
         description: | # this will include new lines to allow paragraphs
           - Pioneered the development and standardization of WebVR content, elevating the interactive user experience.
-          
           - Oversaw website management and back-office development, ensuring seamless operations.
-          
           - Managed Network Attached Storage (NAS) systems, optimizing data accessibility and security.
       - layout: left
         title: Jason Group
@@ -143,9 +136,7 @@ content:
         link: jasongroup.co.kr
         description: | # this will include new lines to allow paragraphs
           - Developed a live commerce solution back-office, automating promotion and enhancing sales strategies.
-          
           - Engineered a search management solution, significantly improving product discoverability and user satisfaction.
-
           - Collects minute-by-minute data to provide quick statistical charts.
       - layout: left
         title: ConnectWave
@@ -154,9 +145,7 @@ content:
         link: connectwave.co.kr
         description: | # this will include new lines to allow paragraphs
           - Led the development of eight innovative services, including chatbots, video commerce platforms, and social content management, driving user engagement and business growth.
-          
           - Implemented a mobile website for the education team, enhancing accessibility and user experience.
-          
           - Developed an electronic tax invoice back-office and integrated services with Kakaotalk channel, improving operational efficiency.
       - layout: left
         title: Aisa Business Daily
@@ -165,7 +154,6 @@ content:
         link: asiae.co.kr
         description: | # this will include new lines to allow paragraphs
           - Applying file storage method to quickly provide the site's main service.
-          
           - Developed multiple web services.
       - layout: left
         title: Pagoda SCS
@@ -174,9 +162,7 @@ content:
         link: pagoda21.com
         description: | # this will include new lines to allow paragraphs
           - Developed educational websites and added B2B convenience features.
-
           - Led development of a site targeting juniors.
-
           - Improving the stability of the IBT online mock test.
       - layout: left
         title: Netpia
@@ -191,7 +177,6 @@ content:
         caption: Dec 2005 – Dec 2006, Seoul, South Korea
         description: | # this will include new lines to allow paragraphs
           - Upgraded the website and built an intranet.
-
           - Increase sales by integrating payment modules.
   - title: Education
     layout: list
